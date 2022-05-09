@@ -1,1 +1,1 @@
-# stock-news-bot
+# Stock News Bot
